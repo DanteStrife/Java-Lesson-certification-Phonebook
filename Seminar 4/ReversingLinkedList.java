@@ -1,0 +1,2 @@
+public class ReversingLinkedList<T> {
+}
